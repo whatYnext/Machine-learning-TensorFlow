@@ -25,7 +25,7 @@ num_features = 784 # data features (img shape: 28*28).
 lr_generator = 0.0002
 lr_discriminator = 0.0002
 training_steps = 1000  # not too many steps (10000)
-batch_size = 64     #change batchsize to be quicker (128)
+batch_size = 64        # change batchsize to be quicker (128)
 display_step = 500
 
 # Network parameters.
